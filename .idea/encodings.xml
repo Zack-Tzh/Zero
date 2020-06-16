@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zero-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zero-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zero-common-db" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zero-common-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zero-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zero-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zero-gateway/zero-gateway-system" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zero-gateway/zero-gateway-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zero-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zero-service-api" charset="UTF-8" />
+  </component>
+</project>
